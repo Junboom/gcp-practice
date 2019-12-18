@@ -177,6 +177,32 @@
 
 
 
+# 
 
+## Container
+
+> 자바에서 JVM과 같은 역할을 함
+> OS/Hardware 위에 APP과 Libs를 내포하며 얹혀짐
+> 확장이 빠르고 가볍다.
+
+
+## Cluster
+
+> 네트워크 연결로 Container를 연결한다.
+> 모듈 식으로 코드 작성 가능
+> 쉬운 배포
+> Kubernetes: Pod 단위로 배포한다.
+
+
+## Stackdriver
+
+> Google Cloud를 목적으로 나온 것이 아니기 때문에 Amazon이나 타사에서도 사용이 가능하다.
+
+1. Monitoring
+2. Logging
+3. Trace
+4. Error Reporting
+5. Debugger
+6. Profiler
 
 
