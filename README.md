@@ -206,3 +206,26 @@
 6. Profiler
 
 
+
+# Big Data / Machine Learning
+
+## Cloud Dataproc
+
+> hadoop을 구동할 때 쉽게 마이그레이션할 수 있다.
+
+
+## Cloud Dataflow
+
+> source -> transforms -> sink
+> ETL 파이프라인 구성
+
+
+## BigQuery
+
+> 유지, 관리가 필요없고, 대용량 트래픽을 처리할 수 있다.
+> n 대 m 메세지 처리가 가능하다.
+> 자동으로 확장이 가능하다.
+
+
+
+
